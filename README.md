@@ -6,7 +6,7 @@ Don't forget to include the path of ``deploy.prototxt`` and ``hed_pretrained_bsd
 
 [Click Here](https://drive.google.com/file/d/1fnA4NJSqJRcbQW170VHvfzrcaJD56Vkg/view?usp=sharing) to download Caffe Model. The ``deploy.prototxt`` is inside the dependencies directory.
 
-Image after HED edge detection:
+Image after applying HED edge detection:
 
 ![Image after applying](image.jpg)
 
