@@ -4,3 +4,12 @@
 *.prototxt
 
 *.exe
+*.vcxproj
+*.filters
+*.sln
+CMakeCache.txt
+/CMakeFiles/*
+/HED.dir/*
+/x64/*
+*.cmake
+/Release/*
