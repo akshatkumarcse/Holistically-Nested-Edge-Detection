@@ -1,4 +1,4 @@
-# Use this to while building: cmake -DOpenCV_DIR="C:\opencv\build\x64\vc15\lib"
+# Use this while building: cmake -DOpenCV_DIR="C:\opencv\build\x64\vc15\lib"
 # cmake --build . --config Release
 
 
