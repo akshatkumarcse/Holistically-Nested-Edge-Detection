@@ -1,8 +1,3 @@
-# Uncomment these while publishing the final code
-
-*.caffemodel
-*.prototxt
-
 *.exe
 *.vcxproj
 *.filters
