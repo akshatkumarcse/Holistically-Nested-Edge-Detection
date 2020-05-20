@@ -72,7 +72,7 @@ public:
 int main( int argc, char* argv[] )
 {
     CV_DNN_REGISTER_LAYER_CLASS(Crop, CropLayer);   //In the below line, enter Path to .prototxt and .caffemodel file.
-    cv::dnn::Net net = cv::dnn::readNet("../dependencies/deploy.prototxt", "C:/Users/KIIT/Desktop/HED/dependencies/hed_pretrained_bsds.caffemodel");
+    cv::dnn::Net net = cv::dnn::readNet("Path to .prototxt file", "Path to .caffemodel");
     
 
 
