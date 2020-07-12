@@ -4,7 +4,7 @@ Use ``CMake`` to build project. If you encounter any error, look inside the CMak
 
 Don't forget to include the path of ``deploy.prototxt`` and ``hed_pretrained_bsds.caffemodel``.
 
-[Click Here](https://drive.google.com/file/d/1fnA4NJSqJRcbQW170VHvfzrcaJD56Vkg/view?usp=sharing) to download Caffe Model. The ``deploy.prototxt`` is inside the dependencies directory.
+[Click Here](https://github.com/BVLC/caffe/wiki/Model-Zoo) to download Caffe Model. The ``deploy.prototxt`` is inside the dependencies directory.
 
 Image after applying HED edge detection:
 
